@@ -1,2 +1,1 @@
-# AOS_PROJ
-Linux Heap Optimizer
+# Linux Heap Optimizer
